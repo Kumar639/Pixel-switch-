@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">PixelSwitch file conversion tools</title>
+  <desc id="desc">Private browser-based tools for images, PDF and Office, archives, data and advanced conversions.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#0f172a"/><stop offset="1" stop-color="#172554"/></linearGradient>
+    <linearGradient id="accent" x1="0" x2="1"><stop stop-color="#38bdf8"/><stop offset="1" stop-color="#22c55e"/></linearGradient>
+  </defs>
+  <rect width="1200" height="630" rx="40" fill="url(#bg)"/>
+  <circle cx="1010" cy="110" r="210" fill="#38bdf8" opacity=".08"/>
+  <circle cx="1080" cy="600" r="260" fill="#22c55e" opacity=".08"/>
+  <rect x="72" y="74" width="76" height="76" rx="22" fill="#fff" opacity=".1"/>
+  <path d="M88 102h38l-10-10 7-7 24 24-24 24-7-7 10-10H88z" fill="#38bdf8"/>
+  <path d="M132 124H94l10 10-7 7-24-24 24-24 7 7-10 10h38z" fill="#22c55e"/>
+  <text x="172" y="128" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="46" font-weight="700">PixelSwitch</text>
+  <text x="72" y="275" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="76" font-weight="800">Convert files privately.</text>
+  <text x="72" y="353" fill="url(#accent)" font-family="Arial, Helvetica, sans-serif" font-size="76" font-weight="800">Download instantly.</text>
+  <text x="76" y="424" fill="#cbd5e1" font-family="Arial, Helvetica, sans-serif" font-size="30">Images · PDF &amp; Office · Archives · Data · OCR · Fonts · 3D</text>
+  <g font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">
+    <rect x="76" y="488" width="165" height="60" rx="30" fill="#fff" opacity=".08"/><text x="112" y="527" fill="#e0f2fe">No upload</text>
+    <rect x="261" y="488" width="205" height="60" rx="30" fill="#fff" opacity=".08"/><text x="298" y="527" fill="#dcfce7">No sign-up</text>
+    <rect x="486" y="488" width="255" height="60" rx="30" fill="#fff" opacity=".08"/><text x="523" y="527" fill="#fef3c7">Browser-based</text>
+  </g>
+</svg>
